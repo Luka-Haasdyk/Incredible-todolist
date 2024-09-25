@@ -4,8 +4,7 @@ export default function Page() {
   return (
     <View style={styles.container}>
       <View style={styles.main}>
-        <Text style={styles.title}>Hello World</Text>
-        <Text style={styles.subtitle}>Incredible To-Do List!</Text>
+        <Text style={styles.title}> Incredible Todo List! </Text>
       </View>
     </View>
   );
