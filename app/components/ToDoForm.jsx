@@ -27,6 +27,7 @@ function TodoForm({addTask}) {
     );
 };
 
+
 const styles = StyleSheet.create({
     form: {
       flexDirection: 'row',
